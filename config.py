@@ -16,5 +16,5 @@ essay_dir='D:\project\pycharmworkspace\\auto_assingment\essays\essay_date.txt'
 
 #根据dics文件夹中存放的词典内容顺序添加tag
 #比如0.txt为食品词典，1.txt为添加剂词典，2.txt为地点词典，3.txt为人名词典
-#其对应的tag分别为'FOOD','ADD','LOCAL','PER'，则设置应该为如下所示：
-tag_config=['FOOD','ADD','LOCAL','PER']
+#其对应的tag分别为'FOOD','ADD','LOC','PER'，则设置应该为如下所示：
+tag_config=['FOOD','ADD','LOC','PER']
